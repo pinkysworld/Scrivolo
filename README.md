@@ -1,3 +1,3 @@
 # Scrivolo – Website
 
-Statische Seite für GitHub Pages: https://pinkysworld.github.io/Scrivolo/
+Statische Seite für GitHub Pages: https://minh.systems/Scrivolo/
